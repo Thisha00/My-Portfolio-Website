@@ -141,3 +141,38 @@ nav ul li a:hover{
     line-height: 40px;
 }
 
+.edu h1{
+    padding-top:150px;
+    text-align: center;
+    font-family:Engravers MT;
+    font-size: 35px;
+}
+
+.edu ul{
+    padding-left: 200px;
+    padding-top: 35px;
+    font-size:20px;
+    line-height: 40px;
+}
+
+.edu h3{
+    padding-top: 15px;
+    padding-left:10px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    margin-right:800px;
+    margin-top: 20px;
+    margin-left:120px;
+    text-align: center;
+}
+
+.edu .uni{
+    padding-bottom: 30px;
+}
+
+.edu div{
+    padding-bottom:150px;
+}
+
