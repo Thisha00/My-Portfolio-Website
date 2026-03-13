@@ -219,3 +219,39 @@ nav ul li a:hover{
     margin-right:800px;    
 }
 
+.experiences h1{
+    font-size:43px;
+    font-family: Cooper Std Black;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.experiences .main-list{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.experiences .period{
+    font-size:20px;
+    font-style: italic;
+}
+
+.experiences .details-list{
+    font-size: 22px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.experiences .exp{
+    padding-top: 50px;
+}
+
+.experiences h2{
+    font-family: Berlin Sans FB;
+    position:relative;
+}
+
+.experiences{
+    padding-bottom:80px;
+}
+
