@@ -302,3 +302,118 @@ nav ul li a:hover{
 .projects img:hover{
     transform: scale(1.1);
 }
+
+.contact p{
+    padding-top:80px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom:35px;
+}
+
+.contact a{
+    font-size:25px;
+    background-color: black;
+    color: white;
+    border:2px solid transparent;
+    padding:10px 20px;
+    border-radius: 20px;
+    transition: .4s;
+}
+
+.contact div{
+    padding-bottom:80px;
+}
+
+.contact a:hover{
+    background-color: white;
+    color: black;
+    border:2px solid black;
+    cursor: pointer;
+}
+
+footer p{
+    text-align: center;
+    font-size:36px;
+    font-family:Forte;
+    font-weight: bold;
+    color:white;
+    background-color: black;
+    padding-top:10px;
+    width:100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+
+footer img{
+    width:50px;
+    z-index: 4;
+}
+
+.footer-section{
+    background-color: black;
+}
+
+footer .socialmedia{
+    display:flex;
+    justify-content: center;
+}
+
+footer .socialmedia a{
+    text-decoration: none;
+    padding:10px;
+    background-color: white;
+    margin:10px;
+    border-radius: 50%;
+}
+
+
+.socialmedia a i{
+    color: black;
+    opacity:0.9;
+}
+
+.socialmedia a:hover{
+    background-color:#111;
+    transition: 0.5s;
+}
+
+.socialmedia a:hover{
+    color: white;
+    transition: 0.5s;
+}
+
+.footerNav{
+    margin:30px 0;
+}
+
+.footerNav ul{
+    display:flex;
+    justify-content: center;
+}
+
+.footerNav ul li a{
+    color:white;
+    margin:20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+.footerNav ul li a:hover{
+    opacity:2;
+}
+
+.footerBottom .last{
+    background-color: black;
+    font-size:15px;
+    padding-top:5px;
+    text-align: center;
+    color: white;
+    font-family:Centaur;
+}
